@@ -1,5 +1,5 @@
 LMDS Aechitecture
-![LMDS Architecture]{http://www.rfwireless-world.com/images/LMDS-architecture.jpg}
+![LMDS Architecture](http://www.rfwireless-world.com/images/LMDS-architecture.jpg)
 
 
 LMDS is the short form of Local Multipoint Distribution Service. It is a P2MP (Point to Multi-Point) technology operating above 20 GHz. P2P (Point to Point) and TV systems can also be interfaced with LMDS. 
@@ -21,7 +21,7 @@ Following are the LMDS disadvantages:
 • Smaller cell size (i.e. 2 to 8 Km) due to requirement of covering large capacity of users. 
 • Requires many cells to cover larger city areas. This increases installation cost for service providers. 
 MMDS Architecture
-![MMDS Architecture]{www.rfwireless-world.com/images/MMDS-architecture.jpg}
+![MMDS Architecture](www.rfwireless-world.com/images/MMDS-architecture.jpg)
 
 MMDS is the short form of Multichannel Multipoint Distribution Service. It is used for small business and home offices. It is not used for large customer requirements such as central offices. It is used where other broadband wireless technologies are difficult to be installed. It uses microwave tower installed on top of the mountains or tall buildings. It covers larger distance compare to LMDS which is about 35 miles. 
 The figure-2 depicts MMDS architecture. It consists of Hub equipment and customer side equipments. Hub consists of antenna tower, RF equipments, Modem, Router for connection with internet and network management system (i.e. NMS). Customer side equipments include antenna, wireless modem, ethernet switch, PCs etc. Hub antenna tower receives wireless signals from multiple users similar to P2MP topology. Each user premise antenna and Hub antenna is connected with P2P microwave link. 
